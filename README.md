@@ -1,0 +1,2 @@
+# leetcodeforfun
+1
